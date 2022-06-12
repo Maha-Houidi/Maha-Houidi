@@ -3,14 +3,14 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
--:house: &nbsp; Tunisian and currently based in Tunisia, Ariana.  
+- :house: &nbsp; Tunisian and currently based in Tunisia, Ariana.  
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science at Higher Institute of Computer Science (ISI Ariana).
 - 💼 &nbsp; Working as an IT manager at Creative Lab ISI Club.
 - 🌱 &nbsp; Learning more about Web Development and Artificial Intelligence.
 - 📚 &nbsp; Currently learning  MERN Stack using ReactJS, NodeJS, ExpressJS and MongoDB.
-- 👯 &nbsp; Looking for a software development internship. 
--:cake: &nbsp; Pursuing Cake Design as hobby.
+- 👯 &nbsp; Looking for a software development internship.
+- :cake: &nbsp; Pursuing Cake Design as hobby.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
