@@ -9,7 +9,7 @@
 - 💼 &nbsp; Working as an IT manager at Creative Lab ISI Club.
 - 🌱 &nbsp; Learning more about Web Development and Artificial Intelligence.
 - 📚 &nbsp; Currently learning  MERN Stack using ReactJS, NodeJS, ExpressJS and MongoDB.
-- 👯 &nbsp; Looking for a software development internship.
+- 👯 &nbsp; Looking for an end of studies internship.
 - :cake: &nbsp; Pursuing Cake Design as hobby.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
