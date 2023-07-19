@@ -8,8 +8,8 @@
 - 🎓 &nbsp; Studying Computer Science at Higher Institute of Computer Science (ISI Ariana).
 - 💼 &nbsp; Working as an IT manager at Creative Lab ISI Club.
 - 🌱 &nbsp; Learning more about Web Development and Artificial Intelligence.
-- 📚 &nbsp; Currently learning  MERN Stack using ReactJS, NodeJS, ExpressJS and MongoDB.
-- 👯 &nbsp; Looking for an end of studies internship.
+- 📚 &nbsp; Interested in developing MERN Stack projects using ReactJS, NodeJS, ExpressJS and MongoDB.
+- 👯 &nbsp; Seeking an opportunity to everage my skills and contribute to cutting-edge projects in the field of computer science.
 - :cake: &nbsp; Pursuing Cake Design as hobby.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -22,9 +22,14 @@
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
   ![Tailwind](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=tailwind.css&logoColor=563D7C)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![VueJs](https://img.shields.io/badge/-Vue.JS-333333?style=flat&logo=vue.js)
+  ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
+  ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
+  
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
@@ -33,9 +38,10 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-- 🖥 &nbsp;
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
+  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=FFF)
+  ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello)
+  ![Notion](https://img.shields.io/badge/-Notion33?style=flat&logo=notion)
+  
 <br/>
 
 
