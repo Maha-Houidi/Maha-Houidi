@@ -5,10 +5,10 @@
 
 - :house: &nbsp; Tunisian and currently based in Tunisia, Ariana.  
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science at Higher Institute of Computer Science (ISI Ariana).
-- 💼 &nbsp; Working as an IT manager at Creative Lab ISI Club.
+- 🎓 &nbsp; Software engineering student at Higher Institute of Computer Science (ISI Ariana).
+- 💼 &nbsp; Former IT manager at Creative Lab ISI Club.
 - 🌱 &nbsp; Learning more about Web Development and Artificial Intelligence.
-- 📚 &nbsp; Interested in developing MERN Stack projects using ReactJS, NodeJS, ExpressJS and MongoDB.
+- 📚 &nbsp; Interested in automation and new technologies.
 - 👯 &nbsp; Seeking an opportunity to everage my skills and contribute to cutting-edge projects in the field of computer science.
 - :cake: &nbsp; Pursuing Cake Design as hobby.
 
